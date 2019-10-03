@@ -4,6 +4,10 @@ Class MyClass
 {
 	Static void mian(String[] args)
 	{
+		mymethod()
+		{
+			
+		}
 	}
 
 }
