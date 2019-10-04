@@ -18,3 +18,10 @@ My method2
 
 syso.Helloooo
 }
+
+
+My method3
+{
+
+	Syso.Added by someone else;
+}
