@@ -2,6 +2,5 @@
 Bug Chjeck.Change in master by bug1 logic by other team member.
 
 
-Bug Check,updated
-bug2 fixed,
+cdhange for rebase
 
