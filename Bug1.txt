@@ -1,1 +1,2 @@
-Bug Chjeck
+Bug Check,updated
+bug2 fixed,
