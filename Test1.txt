@@ -16,4 +16,5 @@ Class MyClass
 My method2
 {
 
+syso.Helloooo
 }
