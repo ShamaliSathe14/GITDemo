@@ -1,1 +1,3 @@
-Bug Chjeck
+Bug Chjeck.Change in master by bug1 logic by other team member.
+
+Additional Changes in master byu other
