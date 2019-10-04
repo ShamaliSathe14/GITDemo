@@ -25,3 +25,8 @@ My method3
 
 	Syso.Added by someone else;
 }
+
+My Method4
+{
+	heyyyyyyyyyy
+}
